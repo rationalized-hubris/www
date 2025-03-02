@@ -1,0 +1,8 @@
+title: Rationalized Hubris
+description: Writing things that almost make sense.
+baseurl: ""
+url: "https://rationalizedhubris.com" 
+
+remote_theme: huangyz0918/moving
+plugins:
+  - jekyll-remote-theme
